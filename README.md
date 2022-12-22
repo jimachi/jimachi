@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimachi
-- 👀 I’m interested in FrontendJobs
-- 🌱 I’m currently Docker, nest.js
+- 👀 I’m interested in GraphQL, ApolloServer
+- 🌱 I’m currently Frontend Engineer
 - 📫 How to reach me jimaichiro@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimachi&count_private=true)
