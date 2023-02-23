@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimachi
-- 👀 I’m interested in Backend(Nest.js, GraphQL) and Frontend(Next.js)
+- 👀 I’m interested in Backend(Nest.js, Express.js) and Frontend(Next.js)
 - 🌱 I’m currently Frontend Engineer
 - 📫 How to reach me jimaichiro@gmail.com
 
